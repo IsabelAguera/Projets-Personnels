@@ -1,0 +1,36 @@
+.intro{
+    background-image: url(img/fondo.jpg);
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.coucou{
+    display: flex;
+    text-align: left;
+    margin-top: 80%;
+}
+.mapa {
+    color: red;
+    position: absolute;
+    margin: 90% 175%;
+    font-size: 150%;
+}
+.mapa1{
+    color: red;
+    position: absolute;
+    margin: 75% 190%;
+    font-size: 150%;
+}
+.mapa2{
+    color: red;
+    position: absolute;
+    margin: 65% 160%;
+    font-size: 150%;
+}
+.mapa3{
+    color: red;
+    position: absolute;
+    margin: 95% 170%;
+    font-size: 150%;
+}
