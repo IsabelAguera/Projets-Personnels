@@ -8,7 +8,7 @@ The projects that I have started are:
 
 **What does it look like?** [Démo](https://IsabelAguera.github.io/Projets-Personnels/)
 
-<img src=""style="width:30%;">
+<img src="" style="width:30%;">
 <img src="" style="width:30%;">
 <img src="" style="width:30%;">
 
